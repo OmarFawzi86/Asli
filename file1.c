@@ -3,4 +3,5 @@
 int main()
 {
 	printf("Hello Omar Hussain Fawzi");
+	printf("Hello Fawzi");
 }
